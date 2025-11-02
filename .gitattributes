@@ -1,1 +1,2 @@
 SP_DELE_CA2_YEAR_2/emnist-letters-train.csv filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
